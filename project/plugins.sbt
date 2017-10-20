@@ -1,1 +1,1 @@
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.6")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.7.0-2017-10-10-ad9e06d-SNAPSHOT")
